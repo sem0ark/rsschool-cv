@@ -9,16 +9,7 @@ Contacts:
 
 ## Currently
 
-Student on "Software Engineering" program in Metropolitan University, Belgrade, Serbia.
-
-## About me
-
-I am a curious student striving for knowledge and acquiring new skills to achieve self-expression with code and diagrams.
-
-Characteristics:
-
-- Quick learner, Self-learner, Curious
-- Persistent, Polite, Organized
+Student on "Software Engineering" undergraduate program, will be completed in 2026.
 
 ## Education
 
@@ -35,13 +26,30 @@ Characteristics:
 - Specialization: "Computer Operator"
 - ![Competition Certificates](https://drive.google.com/file/d/1mRQKKAF4KSiHceQjghMjt5U-pU9IMgOU/view?usp=sharing)
 
+## About me
+
+I am a curious student striving for knowledge and acquiring new skills to become professional full-stack developer.
+
+Characteristics:
+
+- Quick learner, Self-learner, Curious
+- Persistent, Polite, Organized
+
 ### Course programs
 
-- "Google Cloud Get Certified program" Associate Cloud Engineer
-- "EPAM UpSkillMe - Node.js development" Mentoring program
+- ["Google Cloud Get Certified program" Associate Cloud Engineer](https://google.accredible.com/55dadb3f-afd0-4fed-8daf-753f8544efc4)
+- ["EPAM UpSkillMe - Node.js development" Mentoring program](https://drive.google.com/file/d/13d513xmW8btwwoq5gpBk8yIT2Ur0gzo5/view?usp=sharing)
 - "Yandex Summer School - User Interface Development School", completed stage 1
 
 ## Skills
+
+Languages:
+
+- Russian (Native)
+- English (B2+/C1) [EF SET](https://www.efset.org/cert/n291tc)
+- Serbian (B1)
+- Slovak (B1)
+- German (A1)
 
 ### Code examples
 
