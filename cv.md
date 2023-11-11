@@ -6,6 +6,7 @@ Contacts:
 - arcadii.sem@gmail.com
 - https://github.com/sem0ark
 - https://www.linkedin.com/in/semenovam/
+- RS-School Discord server nickname: `Arkadii Semenov (@sem0ark)`
 
 ## Currently
 
@@ -13,10 +14,10 @@ Student on "Software Engineering" undergraduate program, will be completed in 20
 
 ## Education
 
-`2022-2026` Current
+`2022-2026`
 **Metropolitan University, Belgrade, Serbia**
 
-- "Software Engineering", year 2
+- "Software Engineering"
 
 `2020-2022`
 **Industrial and Commercial lyceum, Vladimir, Russia**
@@ -24,7 +25,6 @@ Student on "Software Engineering" undergraduate program, will be completed in 20
 - GPA 5.0/5.0
 - Profile: "Mathematics and computer science"
 - Specialization: "Computer Operator"
-- ![Competition Certificates](https://drive.google.com/file/d/1mRQKKAF4KSiHceQjghMjt5U-pU9IMgOU/view?usp=sharing)
 
 ## About me
 
@@ -35,13 +35,35 @@ Characteristics:
 - Quick learner, Self-learner, Curious
 - Persistent, Polite, Organized
 
-### Course programs
+### Course programs and competitions
 
 - ["Google Cloud Get Certified program" Associate Cloud Engineer](https://google.accredible.com/55dadb3f-afd0-4fed-8daf-753f8544efc4)
 - ["EPAM UpSkillMe - Node.js development" Mentoring program](https://drive.google.com/file/d/13d513xmW8btwwoq5gpBk8yIT2Ur0gzo5/view?usp=sharing)
 - "Yandex Summer School - User Interface Development School", completed stage 1
+- [List of Competition Certificates](https://drive.google.com/file/d/1mRQKKAF4KSiHceQjghMjt5U-pU9IMgOU/view?usp=sharing)
 
 ## Skills
+
+Programming:
+
+- JavaScript (TypeScript, ES6, Node.js)
+  - Express
+  - Next.js + React
+- HTML5 & CSS3
+- Python
+- Java
+
+Theoretical knowledge:
+
+- Algorithms and Data Structures (Competitive programming)
+- Coding and development practices (SOLID)
+- Software Engineering
+  - Development processes (such as Agile + SCRUM)
+- Programming paradigms:
+  - Object-Oriented Programming and OOP patterns (Java, Python, TS)
+  - Functional programming (TS, Clojure)
+  - Procedure programming (C)
+  - Logic programming (prolog)
 
 Languages:
 
@@ -61,7 +83,8 @@ class Graph:
     def __init__(self, n: int, edges: List[List[int]]):
         self.g = defaultdict(list)
         self.n = n
-        for a, b, c in edges: self.g[a].append((c, b))
+        for a, b, c in edges:
+            self.g[a].append((c, b))
 
 
     def addEdge(self, edge: List[int]) -> None:
@@ -92,5 +115,3 @@ function domainName(url) {
   )[1];
 }
 ```
-
-### Links to
