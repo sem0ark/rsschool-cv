@@ -12,6 +12,15 @@ Contacts:
 
 Student on "Software Engineering" undergraduate program, will be completed in 2026.
 
+## About me
+
+I am a curious student striving for knowledge and acquiring new skills to become professional full-stack developer.
+
+Characteristics:
+
+- Quick learner, Self-learner, Curious
+- Persistent, Polite, Organized
+
 ## Education
 
 `2022-2026`
@@ -26,21 +35,18 @@ Student on "Software Engineering" undergraduate program, will be completed in 20
 - Profile: "Mathematics and computer science"
 - Specialization: "Computer Operator"
 
-## About me
-
-I am a curious student striving for knowledge and acquiring new skills to become professional full-stack developer.
-
-Characteristics:
-
-- Quick learner, Self-learner, Curious
-- Persistent, Polite, Organized
-
 ### Course programs and competitions
 
 - ["Google Cloud Get Certified program" Associate Cloud Engineer](https://google.accredible.com/55dadb3f-afd0-4fed-8daf-753f8544efc4)
 - ["EPAM UpSkillMe - Node.js development" Mentoring program](https://drive.google.com/file/d/13d513xmW8btwwoq5gpBk8yIT2Ur0gzo5/view?usp=sharing)
 - "Yandex Summer School - User Interface Development School", completed stage 1
 - [List of Competition Certificates](https://drive.google.com/file/d/1mRQKKAF4KSiHceQjghMjt5U-pU9IMgOU/view?usp=sharing)
+
+### Projects
+
+- [Website mockup with HTML&CSS](https://github.com/sem0ark/web_training/tree/master/front-end/220000%20resp_website)
+- [Node API proxy with OpenWeather API](https://github.com/sem0ark/web_training/tree/master/node/node_api_proxy_server)
+- [Ray tracer in C](https://github.com/sem0ark/c_cpp_training/tree/main/c_lang/simp_curses_ray_tracer)
 
 ## Skills
 
@@ -50,6 +56,12 @@ Programming:
 - HTML5 & CSS3
 - Python
 - Java
+
+Tools:
+
+- Google Cloud Platform
+- Git, GitHub and GitHub Actions, GitLab
+- Jira, Confluence
 
 Theoretical knowledge:
 
