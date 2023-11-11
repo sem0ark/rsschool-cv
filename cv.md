@@ -2,10 +2,10 @@
 
 Contacts:
 
-- +381637009535
+- +381637009535 (Belgrade, Serbia)
 - arcadii.sem@gmail.com
-- https://github.com/sem0ark
-- https://www.linkedin.com/in/semenovam/
+- [GitHub](https://github.com/sem0ark)
+- [LinkedIn](https://www.linkedin.com/in/semenovam/)
 - RS-School Discord server nickname: `Arkadii Semenov (@sem0ark)`
 
 ## Currently
