@@ -46,9 +46,7 @@ Characteristics:
 
 Programming:
 
-- JavaScript (TypeScript, ES6, Node.js)
-  - Express
-  - Next.js + React
+- JavaScript (TypeScript, ES6, Node.js + Express)
 - HTML5 & CSS3
 - Python
 - Java
@@ -56,12 +54,12 @@ Programming:
 Theoretical knowledge:
 
 - Algorithms and Data Structures (Competitive programming)
-- Coding and development practices (SOLID)
+- Coding and development practices (SOLID, OOP patterns)
 - Software Engineering
   - Development processes (such as Agile + SCRUM)
 - Programming paradigms:
-  - Object-Oriented Programming and OOP patterns (Java, Python, TS)
-  - Functional programming (TS, Clojure)
+  - Object-Oriented Programming (Java, Python, TS)
+  - Functional programming (TS)
   - Procedure programming (C)
   - Logic programming (prolog)
 
